@@ -1,1 +1,1 @@
-console.log('hello moi nguoi hom nay minh se test cai git nha')
+console.log('Minh se tai va su dung GIT nha moi nguoi')
